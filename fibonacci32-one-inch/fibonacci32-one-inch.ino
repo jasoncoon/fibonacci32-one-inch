@@ -1,6 +1,6 @@
 /*
-   Fibonacci64 Touch Demo: https://github.com/jasoncoon/fibonacci64-touch-demo
-   Copyright (C) 2021 Jason Coon
+   One Inch Fibonacci32 Touch Demo: https://github.com/jasoncoon/fibonacci32-one-inch
+   Copyright (C) 2024 Jason Coon
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
